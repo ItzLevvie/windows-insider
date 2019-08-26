@@ -191,7 +191,7 @@ The [Windows 10 April 2018 Update](https://blogs.windows.com/windowsexperience/2
 
 ## Windows 10 Fall Creators Update (RS3)
 
-The [Windows 10 Fall Creators Update](https://blogs.windows.com/windowsexperience/2017/10/17/windows-10-fall-creators-update-and-mixed-reality-headsets-available-today-announcing-surface-book-2/) was released to the world on October 17th, 2017. Windows Insiders helped test 24 builds.
+The [Windows 10 Fall Creators Update](https://blogs.windows.com/windowsexperience/2017/10/17/windows-10-fall-creators-update-and-mixed-reality-headsets-available-today-announcing-surface-book-2/) was released to the world on October 17th, 2017. Windows Insiders helped test 27 builds.
 
 | Build | Fast | Slow | Release Preview | SDK |
 |-------|------|------|-----------------|-----|
@@ -225,7 +225,7 @@ The [Windows 10 Fall Creators Update](https://blogs.windows.com/windowsexperienc
 
 ## Windows 10 Creators Update (RS2)
 
-The [Windows 10 Creators Update](https://blogs.windows.com/windowsexperience/2017/04/11/whats-new-in-the-windows-10-creators-update/) was released to the world on April 11th, 2017. Windows Insiders helped test 32 builds.
+The [Windows 10 Creators Update](https://blogs.windows.com/windowsexperience/2017/04/11/whats-new-in-the-windows-10-creators-update/) was released to the world on April 11th, 2017. Windows Insiders helped test 35 builds.
 
 | Build | Fast | Slow | Release Preview | SDK |
 |-------|------|------|-----------------|-----|
