@@ -239,7 +239,7 @@ The [Windows 10 Creators Update](https://blogs.windows.com/windowsexperience/201
 |15047|[3/3/2017](https://blogs.windows.com/windowsexperience/2017/03/03/announcing-windows-10-insider-preview-build-15048-for-pc-and-build-15047-mobile/)||||
 |15046|[2/28/2017](https://blogs.windows.com/windowsexperience/2017/02/28/announcing-windows-10-insider-preview-build-15046-pc/)||||
 |15043|[2/24/2017](https://blogs.windows.com/windowsexperience/2017/02/24/announcing-windows-10-insider-preview-build-15042-pc-build-15043-mobile/)|[3/2/2017](https://blogs.windows.com/windowsexperience/2017/02/24/announcing-windows-10-insider-preview-build-15042-pc-build-15043-mobile/)|||
-|15042|[2/24/2017](https://blogs.windows.com/windowsexperience/2017/02/24/announcing-windows-10-insider-preview-build-15042-pc-build-15043-mobile/)||||
+|15042|[2/24/2017](https://blogs.windows.com/windowsexperience/2017/02/24/announcing-windows-10-insider-preview-build-15042-pc-build-15043-mobile/)|||[2/28/2017](https://blogs.windows.com/windowsdeveloper/2017/02/28/windows-10-sdk-preview-build-15042-released/)|
 |15031|[2/9/2017](https://blogs.windows.com/windowsexperience/2017/02/09/announcing-windows-10-insider-preview-build-15031-mobile/)<br>[2/8/2017](https://blogs.windows.com/windowsexperience/2017/02/08/announcing-windows-10-insider-preview-build-15031-pc/)||||
 |15025|[2/2/2017](https://blogs.windows.com/windowsexperience/2017/02/02/announcing-windows-10-insider-preview-build-15025-mobile/)<br>[2/1/2017](https://blogs.windows.com/windowsexperience/2017/02/01/announcing-windows-10-insider-preview-build-15025-pc/)||||
 |15019|[1/27/2017](https://blogs.windows.com/windowsexperience/2017/01/27/announcing-windows-10-insider-preview-build-15019-pc/)||||
