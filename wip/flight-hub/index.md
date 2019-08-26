@@ -73,8 +73,8 @@ For details regarding the 19H2 feature update for Windows 10, see this [blog pos
 
 The [Windows 10 May 2019 Update](https://blogs.windows.com/windowsexperience/2019/05/21/how-to-get-the-windows-10-may-2019-update/) was released to the world on May 21st, 2019. Windows Insiders helped test 33 builds.
 
-| Build | Fast | Slow | Server | IoT | ISO | SDK |
-|-------|------|------|--------|-----|-----|-----|
+| Build | Fast | Slow | Release Preview | Server | IoT | ISO | SDK |
+|-------|------|------|-----------------|--------|-----|-----|-----|
 |18362|[**3/20/2019**](https://blogs.windows.com/windowsexperience/2019/03/20/announcing-windows-10-insider-preview-build-18362/)|[**3/22/2019**](https://blogs.windows.com/windowsexperience/2019/03/20/announcing-windows-10-insider-preview-build-18362/)||||[**4/2/2019**](https://blogs.windows.com/windowsdeveloper/2019/04/02/windows-10-sdk-preview-build-18362-available-now/)|
 |18361|[3/19/2019](https://blogs.windows.com/windowsexperience/2019/03/19/announcing-windows-10-insider-preview-build-18361/)|||||[3/19/2019](https://blogs.windows.com/windowsdeveloper/2019/03/26/windows-10-sdk-preview-build-18361-available-now/)|
 |18358|[3/15/2019](https://blogs.windows.com/windowsexperience/2019/03/15/announcing-windows-10-insider-preview-build-18358/)||||||
