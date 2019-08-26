@@ -193,8 +193,8 @@ The [Windows 10 April 2018 Update](https://blogs.windows.com/windowsexperience/2
 
 The [Windows 10 Fall Creators Update](https://blogs.windows.com/windowsexperience/2017/10/17/windows-10-fall-creators-update-and-mixed-reality-headsets-available-today-announcing-surface-book-2/) was released to the world on October 17th, 2017. Windows Insiders helped test 27 builds.
 
-| Build | Fast | Slow | Release Preview | Server | SDK |
-|-------|------|------|-----------------|--------|-----|
+| Build | Fast | Slow | Release Preview | Server | IoT | SDK |
+|-------|------|------|-----------------|--------|-----|-----|
 |16299.15|[**10/2/2017**](https://blogs.windows.com/windowsexperience/2017/09/26/announcing-windows-10-insider-preview-build-16299-pc/)|[**10/4/2017**](https://blogs.windows.com/windowsexperience/2017/09/26/announcing-windows-10-insider-preview-build-16299-pc/)|[**10/10/2017**](https://blogs.windows.com/windowsexperience/2017/09/26/announcing-windows-10-insider-preview-build-16299-pc/)||[**10/10/2017**](https://blogs.windows.com/windowsdeveloper/2017/10/10/windows-developer-day-london-windows-10-fall-creators-update-sdk-availability/)|
 |16299|[9/26/2017](https://blogs.windows.com/windowsexperience/2017/09/26/announcing-windows-10-insider-preview-build-16299-pc/)|[9/28/2017](https://blogs.windows.com/windowsexperience/2017/09/26/announcing-windows-10-insider-preview-build-16299-pc/)||||
 |16296|[9/22/2017](https://blogs.windows.com/windowsexperience/2017/09/22/announcing-windows-10-insider-preview-build-16296-pc/)|[9/26/2017](https://blogs.windows.com/windowsexperience/2017/09/22/announcing-windows-10-insider-preview-build-16296-pc/)||||
