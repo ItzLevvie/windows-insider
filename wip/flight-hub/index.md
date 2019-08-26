@@ -211,6 +211,7 @@ The [Windows 10 Fall Creators Update](https://blogs.windows.com/windowsexperienc
 |16237|[7/07/2017](https://blogs.windows.com/windowsexperience/2017/07/07/announcing-windows-10-insider-preview-build-16237-pc/)||||
 |16232|[6/28/2017](https://blogs.windows.com/windowsexperience/2017/06/28/announcing-windows-10-insider-preview-build-16232-pc-build-15228-mobile/)|[7/07/2017](https://blogs.windows.com/windowsexperience/2017/06/28/announcing-windows-10-insider-preview-build-16232-pc-build-15228-mobile/)||[7/12/2017](https://blogs.windows.com/windowsdeveloper/2017/07/12/windows-10-sdk-preview-build-16232-released/)|
 |16226|[6/21/2017](https://blogs.windows.com/windowsexperience/2017/06/21/announcing-windows-10-insider-preview-build-16226-pc/)||||
+|16225||||[6/28/2017](https://blogs.windows.com/windowsdeveloper/2017/06/28/windows-10-sdk-preview-build-16225-released/)|
 |16215|[6/08/2017](https://blogs.windows.com/windowsexperience/2017/06/08/announcing-windows-10-insider-preview-build-16215-pc-build-15222-mobile/)||||
 |16199|[5/17/2017](https://blogs.windows.com/windowsexperience/2017/05/17/announcing-windows-10-insider-preview-build-16199-pc-build-15215-mobile/)||||
 |16193|[5/11/2017](https://blogs.windows.com/windowsexperience/2017/05/11/announcing-windows-10-insider-preview-build-16193-pc-build-15213-mobile/)||||
