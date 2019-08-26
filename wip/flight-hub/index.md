@@ -228,7 +228,7 @@ The [Windows 10 Creators Update](https://blogs.windows.com/windowsexperience/201
 
 | Build | Fast | Slow | Release Preview | SDK |
 |-------|------|------|-----------------|-----|
-|15063|[**3/20/2017**](https://blogs.windows.com/windowsexperience/2017/03/20/announcing-windows-10-insider-preview-build-15063-pc-mobile/)|[**3/23/2017**](https://blogs.windows.com/windowsexperience/2017/03/20/announcing-windows-10-insider-preview-build-15063-pc-mobile/)|[**3/30/2017**](https://blogs.windows.com/windowsexperience/2017/03/20/announcing-windows-10-insider-preview-build-15063-pc-mobile/)||
+|15063|[**3/20/2017**](https://blogs.windows.com/windowsexperience/2017/03/20/announcing-windows-10-insider-preview-build-15063-pc-mobile/)|[**3/23/2017**](https://blogs.windows.com/windowsexperience/2017/03/20/announcing-windows-10-insider-preview-build-15063-pc-mobile/)|[**3/30/2017**](https://blogs.windows.com/windowsexperience/2017/03/20/announcing-windows-10-insider-preview-build-15063-pc-mobile/)|[**4/5/2017**](https://blogs.windows.com/windowsdeveloper/2017/04/05/windows-10-creators-update-creators-update-sdk-released/)|
 |15061|[3/17/2017](https://blogs.windows.com/windowsexperience/2017/03/17/announcing-windows-10-insider-preview-build-15061-pc/)||||
 |15060|[3/16/2017](https://blogs.windows.com/windowsexperience/2017/03/16/announcing-windows-10-insider-preview-build-15060-pc/)||||
 |15058|[3/14/2017](https://blogs.windows.com/windowsexperience/2017/03/14/announcing-windows-10-insider-preview-build-15058-pc/)|[3/17/2017](https://blogs.windows.com/windowsexperience/2017/03/14/announcing-windows-10-insider-preview-build-15058-pc/)|||
