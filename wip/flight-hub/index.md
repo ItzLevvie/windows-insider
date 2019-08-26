@@ -227,8 +227,8 @@ The [Windows 10 Fall Creators Update](https://blogs.windows.com/windowsexperienc
 
 The [Windows 10 Creators Update](https://blogs.windows.com/windowsexperience/2017/04/11/how-to-get-the-windows-10-creators-update/) was released to the world on April 11th, 2017. Windows Insiders helped test 35 builds.
 
-| Build | Fast | Slow | Release Preview | SDK |
-|-------|------|------|-----------------|-----|
+| Build | Fast | Slow | Release Preview | IoT | SDK |
+|-------|------|------|-----------------|-----|-----|
 |15063|[**3/20/2017**](https://blogs.windows.com/windowsexperience/2017/03/20/announcing-windows-10-insider-preview-build-15063-pc-mobile/)|[**3/23/2017**](https://blogs.windows.com/windowsexperience/2017/03/20/announcing-windows-10-insider-preview-build-15063-pc-mobile/)|[**3/30/2017**](https://blogs.windows.com/windowsexperience/2017/03/20/announcing-windows-10-insider-preview-build-15063-pc-mobile/)|[**4/5/2017**](https://blogs.windows.com/windowsdeveloper/2017/04/05/windows-10-creators-update-creators-update-sdk-released/)|
 |15061|[3/17/2017](https://blogs.windows.com/windowsexperience/2017/03/17/announcing-windows-10-insider-preview-build-15061-pc/)||||
 |15060|[3/16/2017](https://blogs.windows.com/windowsexperience/2017/03/16/announcing-windows-10-insider-preview-build-15060-pc/)||||
