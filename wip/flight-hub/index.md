@@ -19,7 +19,7 @@ Welcome to Flight Hub! Use this dashboard to quickly identify the latest Windows
 
 You can get builds of 20H1 today if you've opted in to **Fast builds**.
 
-The items in **bold** are the latest releases for the individual versions of the item. 
+The items in **bold** are the latest releases for the individual versions of the item.
 
 | Build | Fast | Slow | Server | IoT | ISO | SDK |
 |-------|------|------|--------|-----|-----|-----|
@@ -49,14 +49,14 @@ The items in **bold** are the latest releases for the individual versions of the
 |18841*|[2/22/2019](https://blogs.windows.com/windowsexperience/2019/02/22/announcing-windows-10-insider-preview-build-18841/)||||||
 |18836*|[2/14/2019](https://blogs.windows.com/windowsexperience/2019/02/14/announcing-windows-10-insider-preview-build-18836/)||||||
 
->[!NOTE] 
+>[!NOTE]
 > "*" denotes a Skip Ahead flight.
 
 ## Next feature update for Windows 10 (19H2)
 
 For details regarding the 19H2 feature update for Windows 10, see this [blog post](https://blogs.windows.com/windowsexperience/2019/07/01/evolving-windows-10-servicing-and-quality-the-next-steps/#IX1elYqpB4qhmMMg.97).
 
-| Build | Slow | 
+| Build | Slow |
 |-------|------|
 |18362.10015*|[**8/19/2019**](https://blogs.windows.com/windowsexperience/2019/08/19/announcing-windows-10-insider-preview-build-18362-10014-18362-10015-19h2/)|
 |18362.10014|[**8/19/2019**](https://blogs.windows.com/windowsexperience/2019/08/19/announcing-windows-10-insider-preview-build-18362-10014-18362-10015-19h2/)|
@@ -66,7 +66,7 @@ For details regarding the 19H2 feature update for Windows 10, see this [blog pos
 |18362.10005|[7/15/2019](https://blogs.windows.com/windowsexperience/2019/07/15/announcing-windows-10-insider-preview-build-18362-10005-19h2/)|
 |18362.10000|[7/1/2019](https://blogs.windows.com/windowsexperience/2019/07/01/announcing-windows-10-insider-preview-build-18362-10000-19h2/)|
 
->[!NOTE] 
+>[!NOTE]
 > "*" denotes that the update went out to only a subset of Windows Insiders in the Slow ring which means not everyone in the Slow ring will see the update.
 
 ## Windows 10 May 2019 Update (19H1)
@@ -111,7 +111,7 @@ The [Windows 10 May 2019 Update](https://blogs.windows.com/windowsexperience/201
 
 ## Windows 10 October 2018 Update (RS5)
 
-Windows 10, version 1809, and Windows Server 2019 were released to the world on November 13, 2018. 
+Windows 10, version 1809, and Windows Server 2019 were released to the world on November 13, 2018.
 
 | Build | Fast | Slow | Server | IoT | ISO | SDK |
 |-------|------|------|--------|-----|-----|-----|
@@ -152,7 +152,7 @@ Windows 10, version 1809, and Windows Server 2019 were released to the world on 
 | 17604 | [2/14/2018*](https://blogs.windows.com/windowsexperience/2018/02/14/announcing-windows-10-insider-preview-build-17101-fast-build-17604-skip-ahead/) |
 
 ## Windows 10 April 2018 Update (RS4)
-[Windows 10 version 1803](https://blogs.windows.com/windowsexperience/2018/04/30/whats-new-in-the-windows-10-april-2018-update) was released to the world on April 30, 2018. Windows Insiders helped test 46 builds.  
+[Windows 10 version 1803](https://blogs.windows.com/windowsexperience/2018/04/30/whats-new-in-the-windows-10-april-2018-update) was released to the world on April 30, 2018. Windows Insiders helped test 46 builds.
 
 | Build | Fast | Slow | Server | IoT | ISO | SDK |
 |-------|------|------|--------|-----|-----|-----|
