@@ -54,7 +54,7 @@ The items in **bold** are the latest releases for the individual versions of the
 
 ## Next feature update for Windows 10 (19H2)
 
-For details regarding the 19H2 feature update for Windows 10, see this [blog post](https://blogs.windows.com/windowsexperience/2019/07/01/evolving-windows-10-servicing-and-quality-the-next-steps/#IX1elYqpB4qhmMMg.97).
+For details regarding the 19H2 feature update for Windows 10, see this [blog post](https://blogs.windows.com/windowsexperience/2019/07/01/evolving-windows-10-servicing-and-quality-the-next-steps/).
 
 | Build | Slow |
 |-------|------|
@@ -153,7 +153,7 @@ The [Windows 10 October 2018 Update](https://blogs.windows.com/windowsexperience
 
 ## Windows 10 April 2018 Update (RS4)
 
-The [Windows 10 April 2018 Update](https://blogs.windows.com/windowsexperience/2018/04/30/whats-new-in-the-windows-10-april-2018-update/) was released to the world on April 30th, 2018.
+The [Windows 10 April 2018 Update](https://blogs.windows.com/windowsexperience/2018/04/30/how-to-get-the-windows-10-april-2018-update/) was released to the world on April 30th, 2018.
 
 | Build | Fast | Slow | Server | IoT | ISO | SDK |
 |-------|------|------|--------|-----|-----|-----|
@@ -191,7 +191,7 @@ The [Windows 10 April 2018 Update](https://blogs.windows.com/windowsexperience/2
 
 ## Windows 10 Fall Creators Update (RS3)
 
-The [Windows 10 Fall Creators Update](https://blogs.windows.com/windowsexperience/2017/10/17/whats-new-windows-10-fall-creators-update/) was released to the world on October 17th, 2017. Windows Insiders helped test 27 builds.
+The [Windows 10 Fall Creators Update](https://blogs.windows.com/windowsexperience/2017/10/17/get-windows-10-fall-creators-update/) was released to the world on October 17th, 2017. Windows Insiders helped test 27 builds.
 
 | Build | Fast | Slow | Release Preview | Server | IoT | SDK |
 |-------|------|------|-----------------|--------|-----|-----|
@@ -225,7 +225,7 @@ The [Windows 10 Fall Creators Update](https://blogs.windows.com/windowsexperienc
 
 ## Windows 10 Creators Update (RS2)
 
-The [Windows 10 Creators Update](https://blogs.windows.com/windowsexperience/2017/04/11/whats-new-in-the-windows-10-creators-update/) was released to the world on April 11th, 2017. Windows Insiders helped test 35 builds.
+The [Windows 10 Creators Update](https://blogs.windows.com/windowsexperience/2017/04/11/how-to-get-the-windows-10-creators-update/) was released to the world on April 11th, 2017. Windows Insiders helped test 35 builds.
 
 | Build | Fast | Slow | Release Preview | SDK |
 |-------|------|------|-----------------|-----|
