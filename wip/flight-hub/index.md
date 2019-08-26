@@ -194,7 +194,7 @@ The [Windows 10 Fall Creators Update](https://blogs.windows.com/windowsexperienc
 
 | Build | Fast | Slow | Release Preview | SDK |
 |-------|------|------|-----------------|-----|
-|16299.15|[**10/2/2017**](https://blogs.windows.com/windowsexperience/2017/09/26/announcing-windows-10-insider-preview-build-16299-pc/)|[**10/4/2017**](https://blogs.windows.com/windowsexperience/2017/09/26/announcing-windows-10-insider-preview-build-16299-pc/)|[**10/10/2017**](https://blogs.windows.com/windowsexperience/2017/09/26/announcing-windows-10-insider-preview-build-16299-pc/)||
+|16299.15|[**10/2/2017**](https://blogs.windows.com/windowsexperience/2017/09/26/announcing-windows-10-insider-preview-build-16299-pc/)|[**10/4/2017**](https://blogs.windows.com/windowsexperience/2017/09/26/announcing-windows-10-insider-preview-build-16299-pc/)|[**10/10/2017**](https://blogs.windows.com/windowsexperience/2017/09/26/announcing-windows-10-insider-preview-build-16299-pc/)|[**10/10/2017**](https://blogs.windows.com/windowsdeveloper/2017/10/10/windows-developer-day-london-windows-10-fall-creators-update-sdk-availability/)|
 |16299|[9/26/2017](https://blogs.windows.com/windowsexperience/2017/09/26/announcing-windows-10-insider-preview-build-16299-pc/)|[9/28/2017](https://blogs.windows.com/windowsexperience/2017/09/26/announcing-windows-10-insider-preview-build-16299-pc/)|||
 |16296|[9/22/2017](https://blogs.windows.com/windowsexperience/2017/09/22/announcing-windows-10-insider-preview-build-16296-pc/)|[9/26/2017](https://blogs.windows.com/windowsexperience/2017/09/22/announcing-windows-10-insider-preview-build-16296-pc/)|||
 |16294|[9/20/2017](https://blogs.windows.com/windowsexperience/2017/09/20/announcing-windows-10-insider-preview-build-16294-pc/)||||
