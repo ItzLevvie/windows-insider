@@ -161,8 +161,8 @@ The [Windows 10 April 2018 Update](https://blogs.windows.com/windowsexperience/2
 |17133|[3/27/2018](https://blogs.windows.com/windowsexperience/2018/03/27/announcing-windows-10-insider-preview-build-17133-for-fast/)|[3/30/2018](https://blogs.windows.com/windowsexperience/2018/03/27/announcing-windows-10-insider-preview-build-17133-for-fast/)|[4/5/2018](https://blogs.windows.com/windowsexperience/2018/03/27/announcing-windows-10-insider-preview-build-17133-for-fast/)|||||
 |17128|[3/23/2018](https://blogs.windows.com/windowsexperience/2018/03/23/announcing-windows-10-insider-preview-build-17128-for-fast/)|||||||
 |17127|[3/20/2018](https://blogs.windows.com/windowsexperience/2018/03/20/announcing-windows-10-insider-preview-build-17127-for-fast/)|[3/23/2018](https://blogs.windows.com/windowsexperience/2018/03/20/announcing-windows-10-insider-preview-build-17127-for-fast/)||||||
-|17123||||||||
-|17120||||||||
+|17123|[3/16/2018](https://blogs.windows.com/windowsexperience/2018/03/16/announcing-windows-10-insider-preview-build-17123-for-fast/)|||||||
+|17120|[3/13/2018](https://blogs.windows.com/windowsexperience/2018/03/13/announcing-windows-10-insider-preview-build-17120-for-fast/)|[3/16/2018](https://blogs.windows.com/windowsexperience/2018/03/13/announcing-windows-10-insider-preview-build-17120-for-fast/)||||||
 |||||||||
 |||||||||
 |||||||||
