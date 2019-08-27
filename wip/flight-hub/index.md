@@ -171,6 +171,7 @@ The [Windows 10 April 2018 Update](https://blogs.windows.com/windowsexperience/2
 |17093|[2/7/2018](https://blogs.windows.com/windowsexperience/2018/02/07/announcing-windows-10-insider-preview-build-17093-pc/)|||||||
 |17083|[1/24/2018](https://blogs.windows.com/windowsexperience/2018/01/24/announcing-windows-10-insider-preview-build-17083-for-pc/)|||||||
 |17074|[1/11/2018](https://blogs.windows.com/windowsexperience/2018/01/11/announcing-windows-10-insider-preview-build-17074-pc/)|[1/19/2018](https://blogs.windows.com/windowsexperience/2018/01/11/announcing-windows-10-insider-preview-build-17074-pc/)||||||
+|17069|||||||[1/17/2018](https://blogs.windows.com/windowsdeveloper/2018/01/17/windows-10-sdk-preview-build-17069-now-available/)|
 |17063|[12/19/2017](https://blogs.windows.com/windowsexperience/2017/12/19/announcing-windows-10-insider-preview-build-17063-pc/)|||||||
 |17061|||||||[12/19/2017](https://blogs.windows.com/windowsdeveloper/2017/12/19/windows-10-sdk-preview-build-17061-now-available/)|
 |17046|[11/22/2017](https://blogs.windows.com/windowsexperience/2017/11/22/announcing-windows-10-insider-preview-build-17046-pc/)|||||||
@@ -181,7 +182,6 @@ The [Windows 10 April 2018 Update](https://blogs.windows.com/windowsexperience/2
 |17004*|[9/27/2017](https://blogs.windows.com/windowsexperience/2017/09/27/announcing-windows-10-insider-preview-build-17004-pc-skip-ahead/)|||||||
 |16362*|[9/13/2017](https://blogs.windows.com/windowsexperience/2017/09/13/announcing-windows-10-insider-preview-build-16362-pc-skip-ahead/)|||||||
 |16353*|[8/31/2017](https://blogs.windows.com/windowsexperience/2017/08/31/announcing-windows-10-insider-preview-build-16353-pc-skip-ahead/)|||||||
-|||||||||
 |||||||||
 |||||||||
 |||||||||
