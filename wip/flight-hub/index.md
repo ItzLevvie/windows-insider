@@ -155,8 +155,8 @@ The [Windows 10 October 2018 Update](https://blogs.windows.com/windowsexperience
 
 The [Windows 10 April 2018 Update](https://blogs.windows.com/windowsexperience/2018/04/30/how-to-get-the-windows-10-april-2018-update/) was released to the world on April 30th, 2018.
 
-| Build | Fast | Slow | Server | IoT | ISO | SDK |
-|-------|------|------|--------|-----|-----|-----|
+| Build | Fast | Slow | Release Preview | Server | IoT | ISO | SDK |
+|-------|------|------|-----------------|--------|-----|-----|-----|
 | 17134 | [4/16/2018](https://blogs.windows.com/windowsexperience/2018/04/16/announcing-windows-10-insider-preview-build-17134-for-fast/)|__4/20/2018__ |
 | 17133 |[3/27/2018](https://blogs.windows.com/windowsexperience/2018/03/27/announcing-windows-10-insider-preview-build-17133-for-fast/) | 3/30/2018| |[3/28/2018](https://social.msdn.microsoft.com/Forums/en-US/4587bb75-0143-4bac-9af0-8fea437dbfba/new-flight-17133-released-for-insiders?forum=WindowsIoT) |
 | 17128 | [3/23/2018](https://blogs.windows.com/windowsexperience/2018/03/23/announcing-windows-10-insider-preview-build-17128-for-fast/)|
