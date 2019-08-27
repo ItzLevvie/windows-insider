@@ -168,8 +168,8 @@ The [Windows 10 April 2018 Update](https://blogs.windows.com/windowsexperience/2
 |17110|[2/27/2018](https://blogs.windows.com/windowsexperience/2018/02/27/announcing-windows-10-insider-preview-build-17110-fast/)|||||||
 |17107|[2/23/2018](https://blogs.windows.com/windowsexperience/2018/02/23/announcing-windows-10-insider-preview-build-17107-fast-ring/)|||||||
 |17101|[2/14/2018](https://blogs.windows.com/windowsexperience/2018/02/14/announcing-windows-10-insider-preview-build-17101-fast-build-17604-skip-ahead/)|||||||
-|||||||||
-|||||||||
+|17093|[2/7/2018](https://blogs.windows.com/windowsexperience/2018/02/07/announcing-windows-10-insider-preview-build-17093-pc/)|||||||
+|17083|[1/24/2018](https://blogs.windows.com/windowsexperience/2018/01/24/announcing-windows-10-insider-preview-build-17083-for-pc/)|||||||
 |||||||||
 |||||||||
 |||||||||
