@@ -261,3 +261,7 @@ The [Windows 10 Creators Update](https://blogs.windows.com/windowsexperience/201
 |14915|[8/31/2016](https://blogs.windows.com/windowsexperience/2016/08/31/announcing-windows-10-insider-preview-build-14915-for-pc-and-mobile/)|||[9/6/2016](https://social.msdn.microsoft.com/Forums/en-US/4ddb5e1d-fbf1-46e0-9b47-5dfd24202826/new-flight-14915-released)|||
 |14905|[8/17/2016](https://blogs.windows.com/windowsexperience/2016/08/17/announcing-windows-10-insider-preview-build-14905-for-pc-mobile/)||||||
 |14901|[8/11/2016](https://blogs.windows.com/windowsexperience/2016/08/11/announcing-windows-10-insider-preview-build-14901-for-pc/)||||||
+
+# Windows 10 Anniversary Update (RS1)
+
+The [Windows 10 Anniversary Update](https://blogs.windows.com/windowsexperience/2016/08/02/how-to-get-the-windows-10-anniversary-update/) was released to the world on August 2nd, 2016.
