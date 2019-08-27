@@ -153,7 +153,7 @@ The [Windows 10 October 2018 Update](https://blogs.windows.com/windowsexperience
 
 ## Windows 10 April 2018 Update (RS4)
 
-The [Windows 10 April 2018 Update](https://blogs.windows.com/windowsexperience/2018/04/30/how-to-get-the-windows-10-april-2018-update/) was released to the world on April 30th, 2018.
+The [Windows 10 April 2018 Update](https://blogs.windows.com/windowsexperience/2018/04/30/how-to-get-the-windows-10-april-2018-update/) was released to the world on April 30th, 2018. Windows Insiders helped test 27 builds.
 
 | Build | Fast | Slow | Release Preview | Server | IoT | ISO | SDK |
 |-------|------|------|-----------------|--------|-----|-----|-----|
