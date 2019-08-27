@@ -175,8 +175,8 @@ The [Windows 10 April 2018 Update](https://blogs.windows.com/windowsexperience/2
 |17046||||||||
 |17040||||||||
 |17035||||||||
-|17025||||||||
-|17017||||||||
+|17025|[10/25/2017](https://blogs.windows.com/windowsexperience/2017/10/25/announcing-windows-10-insider-preview-build-17025-pc/)|[11/1/2017](https://blogs.windows.com/windowsexperience/2017/10/25/announcing-windows-10-insider-preview-build-17025-pc/)||||||
+|17017|[10/13/2017](https://blogs.windows.com/windowsexperience/2017/10/13/announcing-windows-10-insider-preview-build-17017-pc/)|||||||
 |17004*|[9/27/2017](https://blogs.windows.com/windowsexperience/2017/09/27/announcing-windows-10-insider-preview-build-17004-pc-skip-ahead/)|||||||
 |||||||||
 |||||||||
