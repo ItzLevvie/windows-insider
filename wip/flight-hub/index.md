@@ -268,7 +268,7 @@ The [Windows 10 Anniversary Update](https://blogs.windows.com/windowsexperience/
 
 | Build | Fast | Slow | Release Preview | Server | IoT | ISO | SDK |
 |-------|------|------|-----------------|--------|-----|-----|-----|
-|14393||||||||
+|14393|[**7/18/2016**](https://blogs.windows.com/windowsexperience/2016/07/18/build14393/)|[**7/20/2016**](https://blogs.windows.com/windowsexperience/2016/07/18/build14393/)|[**7/28/2016**](https://blogs.windows.com/windowsexperience/2016/07/18/build14393/)|||||
 |||||||||
 |||||||||
 |||||||||
