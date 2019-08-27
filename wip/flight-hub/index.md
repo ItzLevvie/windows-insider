@@ -265,3 +265,6 @@ The [Windows 10 Creators Update](https://blogs.windows.com/windowsexperience/201
 # Windows 10 Anniversary Update (RS1)
 
 The [Windows 10 Anniversary Update](https://blogs.windows.com/windowsexperience/2016/08/02/how-to-get-the-windows-10-anniversary-update/) was released to the world on August 2nd, 2016.
+
+| Build | Fast | Slow | Release Preview | Server | IoT | ISO | SDK |
+|-------|------|------|-----------------|--------|-----|-----|-----|
