@@ -264,7 +264,7 @@ The [Windows 10 Creators Update](https://blogs.windows.com/windowsexperience/201
 
 # Windows 10 Anniversary Update (RS1)
 
-The [Windows 10 Anniversary Update](https://blogs.windows.com/windowsexperience/2016/08/02/how-to-get-the-windows-10-anniversary-update/) was released to the world on August 2nd, 2016.
+The [Windows 10 Anniversary Update](https://blogs.windows.com/windowsexperience/2016/08/02/how-to-get-the-windows-10-anniversary-update/) was released to the world on August 2nd, 2016. Windows Insiders helped test 33 builds.
 
 | Build | Fast | Slow | Release Preview | IoT | ISO | SDK |
 |-------|------|------|-----------------|-----|-----|-----|
@@ -296,12 +296,8 @@ The [Windows 10 Anniversary Update](https://blogs.windows.com/windowsexperience/
 |14271|[2/24/2016](https://blogs.windows.com/windowsexperience/2016/02/24/announcing-windows-10-insider-preview-build-14271-mobile-build-14267-1004/)||||||
 |14267.1004|[2/24/2016](https://blogs.windows.com/windowsexperience/2016/02/24/announcing-windows-10-insider-preview-build-14271-mobile-build-14267-1004/)||||||
 |14267|[2/19/2016](https://blogs.windows.com/windowsexperience/2016/02/19/announcing-windows-10-mobile-insider-preview-build-14267/)<br>[2/18/2016](https://blogs.windows.com/windowsexperience/2016/02/18/announcing-windows-10-insider-preview-build-14267/)||||||
-||||||||
-||||||||
-||||||||
-||||||||
-||||||||
-||||||||
-||||||||
-||||||||
-||||||||
+|14257|[2/3/2016](https://blogs.windows.com/windowsexperience/2016/02/03/announcing-windows-10-insider-preview-build-14257/)||||||
+|14251|[1/27/2016](https://blogs.windows.com/windowsexperience/2016/01/27/announcing-windows-10-insider-preview-build-14251/)||||||
+|11102|[1/21/2016](https://blogs.windows.com/windowsexperience/2016/01/21/announcing-windows-10-insider-preview-build-11102/)||||||
+|11099|[1/13/2016](https://blogs.windows.com/windowsexperience/2016/01/13/announcing-windows-10-insider-preview-build-11099/)||||||
+|11082|[12/16/2015](https://blogs.windows.com/windowsexperience/2015/12/16/announcing-windows-10-insider-preview-build-11082/)||||||
