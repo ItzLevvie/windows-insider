@@ -268,7 +268,7 @@ The [Windows 10 Anniversary Update](https://blogs.windows.com/windowsexperience/
 
 | Build | Fast | Slow | Release Preview | Server | IoT | ISO | SDK |
 |-------|------|------|-----------------|--------|-----|-----|-----|
-|||||||||
+|14393||||||||
 |||||||||
 |||||||||
 |||||||||
