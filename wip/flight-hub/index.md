@@ -277,7 +277,7 @@ The [Windows 10 Creators Update](https://blogs.windows.com/windowsexperience/201
 |14905|[8/17/2016](https://blogs.windows.com/windowsexperience/2016/08/17/announcing-windows-10-insider-preview-build-14905-for-pc-mobile/)||||||
 |14901|[8/11/2016](https://blogs.windows.com/windowsexperience/2016/08/11/announcing-windows-10-insider-preview-build-14901-for-pc/)||||||
 
-# Windows 10 Anniversary Update (RS1)
+## Windows 10 Anniversary Update (RS1)
 
 The [Windows 10 Anniversary Update](https://blogs.windows.com/windowsexperience/2016/08/02/how-to-get-the-windows-10-anniversary-update/) was released to the world on August 2nd, 2016. Windows Insiders helped test 33 builds.
 
