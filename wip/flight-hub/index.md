@@ -58,6 +58,15 @@ The items in **bold** are the latest releases for the individual versions of the
 
 For details regarding the 19H2 feature update for Windows 10, see [Evolving Windows 10 servicing: the next steps](https://blogs.windows.com/windowsexperience/2019/07/01/evolving-windows-10-servicing-and-quality-the-next-steps/).
 
+**19H2 in the Release Preview ring:**
+
+| Build | Release Preview | ISO |
+|-------|-----------------|-----|
+|18363.329*|[](https://blogs.windows.com/windowsexperience/2019/08/26/testing-the-throttled-delivery-approach-for-19h2/)||
+|18363.327*|[](https://blogs.windows.com/windowsexperience/2019/08/26/testing-the-throttled-delivery-approach-for-19h2/)||
+
+**19H2 in the Slow ring:**
+
 | Build | Slow |
 |-------|------|
 |18362.10019|[**9/5/2019**](https://blogs.windows.com/windowsexperience/2019/09/05/announcing-windows-10-insider-preview-build-18362-10019-19h2/)|
