@@ -59,8 +59,9 @@ For details regarding the 19H2 feature update for Windows 10, see [Evolving Wind
 
 | Build | Slow |
 |-------|------|
-|18362.10015*|[**8/19/2019**](https://blogs.windows.com/windowsexperience/2019/08/19/announcing-windows-10-insider-preview-build-18362-10014-18362-10015-19h2/)|
-|18362.10014|[**8/19/2019**](https://blogs.windows.com/windowsexperience/2019/08/19/announcing-windows-10-insider-preview-build-18362-10014-18362-10015-19h2/)|
+|18362.10019|[**9/5/2019**](https://blogs.windows.com/windowsexperience/2019/09/05/announcing-windows-10-insider-preview-build-18362-10019-19h2/)|
+|18362.10015*|[8/19/2019](https://blogs.windows.com/windowsexperience/2019/08/19/announcing-windows-10-insider-preview-build-18362-10014-18362-10015-19h2/)|
+|18362.10014|[8/19/2019](https://blogs.windows.com/windowsexperience/2019/08/19/announcing-windows-10-insider-preview-build-18362-10014-18362-10015-19h2/)|
 |18362.10013*|[8/8/2019](https://blogs.windows.com/windowsexperience/2019/08/08/announcing-windows-10-insider-preview-build-18362-10012-18362-10013-19h2/)|
 |18362.10012|[8/8/2019](https://blogs.windows.com/windowsexperience/2019/08/08/announcing-windows-10-insider-preview-build-18362-10012-18362-10013-19h2/)|
 |18362.10006*|[7/17/2019](https://blogs.windows.com/windowsexperience/2019/07/15/announcing-windows-10-insider-preview-build-18362-10005-19h2/)|
