@@ -55,7 +55,7 @@ The items in **bold** are the latest releases for the individual versions of the
 
 ## Next feature update for Windows 10 (19H2)
 
-For details regarding the 19H2 feature update for Windows 10, see this [blog post](https://blogs.windows.com/windowsexperience/2019/07/01/evolving-windows-10-servicing-and-quality-the-next-steps/).
+For details regarding the 19H2 feature update for Windows 10, see [Evolving Windows 10 servicing: the next steps](https://blogs.windows.com/windowsexperience/2019/07/01/evolving-windows-10-servicing-and-quality-the-next-steps/).
 
 | Build | Slow |
 |-------|------|
