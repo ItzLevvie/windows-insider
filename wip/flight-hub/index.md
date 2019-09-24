@@ -64,7 +64,8 @@ For details regarding the 19H2 feature update for Windows 10, see [Evolving Wind
 
 | Build | Release Preview | ISO |
 |-------|-----------------|-----|
-|18363.329*|[**8/29/2019**](https://blogs.windows.com/windowsexperience/2019/08/26/testing-the-throttled-delivery-approach-for-19h2/)|[**9/3/2019**](https://www.microsoft.com/software-download/windowsinsiderpreviewadvanced)|
+|18363.385*|[**9/23/2019**](https://blogs.windows.com/windowsexperience/2019/08/26/testing-the-throttled-delivery-approach-for-19h2/)||
+|18363.329*|[8/29/2019](https://blogs.windows.com/windowsexperience/2019/08/26/testing-the-throttled-delivery-approach-for-19h2/)|[**9/3/2019**](https://www.microsoft.com/software-download/windowsinsiderpreviewadvanced)|
 |18363.327*|[8/26/2019](https://blogs.windows.com/windowsexperience/2019/08/26/testing-the-throttled-delivery-approach-for-19h2/)||
 
 >[!NOTE]
