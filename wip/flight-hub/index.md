@@ -23,7 +23,8 @@ The items in **bold** are the latest releases for the individual versions of the
 
 | Build | Fast | Slow | Server | IoT | ISO | SDK |
 |-------|------|------|--------|-----|-----|-----|
-|18995|[**10/3/2019**](https://blogs.windows.com/windowsexperience/2019/10/03/announcing-windows-10-insider-preview-build-18995/)||||||
+|18999|[**10/8/2019**](https://blogs.windows.com/windowsexperience/2019/10/08/announcing-windows-10-insider-preview-build-18999/)||||||
+|18995|[10/3/2019](https://blogs.windows.com/windowsexperience/2019/10/03/announcing-windows-10-insider-preview-build-18995/)||||||
 |18990|[9/24/2019](https://blogs.windows.com/windowsexperience/2019/09/24/announcing-windows-10-insider-preview-build-18990/)||||[**10/1/2019**](https://www.microsoft.com/software-download/windowsinsiderpreviewadvanced)|[**10/1/2019**](https://blogs.windows.com/windowsdeveloper/2019/10/01/windows-10-sdk-preview-build-18990-available-now/)|
 |18985|[9/19/2019](https://blogs.windows.com/windowsexperience/2019/09/19/announcing-windows-10-insider-preview-build-18985/)||[**9/24/2019**](https://blogs.windows.com/windowsexperience/2019/09/24/announcing-windows-server-vnext-insider-preview-build-18985/)|||[9/24/2019](https://blogs.windows.com/windowsdeveloper/2019/09/24/windows-10-sdk-preview-build-18985-available-now/)|
 |18980|[9/11/2019](https://blogs.windows.com/windowsexperience/2019/09/11/announcing-windows-10-insider-preview-build-18980/)|||||[9/17/2019](https://blogs.windows.com/windowsdeveloper/2019/09/17/windows-10-sdk-preview-build-18980-available-now/)|
@@ -66,7 +67,8 @@ For details regarding the 19H2 feature update for Windows 10, see [Evolving Wind
 
 | Build | Release Preview | ISO |
 |-------|-----------------|-----|
-|18363.388*|[**10/3/2019**](https://blogs.windows.com/windowsexperience/2019/08/26/testing-the-throttled-delivery-approach-for-19h2/)||
+|18363.418*|[**10/8/2019**](https://blogs.windows.com/windowsexperience/2019/08/26/testing-the-throttled-delivery-approach-for-19h2/)||
+|18363.388*|[10/3/2019](https://blogs.windows.com/windowsexperience/2019/08/26/testing-the-throttled-delivery-approach-for-19h2/)||
 |18363.387*|[9/27/2019](https://blogs.windows.com/windowsexperience/2019/08/26/testing-the-throttled-delivery-approach-for-19h2/)||
 |18363.385*|[9/23/2019](https://blogs.windows.com/windowsexperience/2019/08/26/testing-the-throttled-delivery-approach-for-19h2/)||
 |18363.329*|[8/29/2019](https://blogs.windows.com/windowsexperience/2019/08/26/testing-the-throttled-delivery-approach-for-19h2/)|[**9/3/2019**](https://www.microsoft.com/software-download/windowsinsiderpreviewadvanced)|
