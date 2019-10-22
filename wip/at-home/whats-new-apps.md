@@ -13,15 +13,61 @@ ms.prod: w10
 ---
 
 # Windows app updates 
-You will find information on the latest major app updates for Windows 10 released to Windows Insiders here. Currently, app updates are sorted by date in which announcements of the app updates are made. 
+You will find information on the latest major app updates for Windows 10 released to Windows Insiders here. These updates are currently available using PCs running Windows 10 Version 1903. 
 
 _Note:_ Not all app updates will be listed here. Only app updates that include major changes e.g. new features, etc. will be noted here.
 
 ## Your Phone 
-These updates are currently available using PCs running Windows 10 Insider Preview Builds (19H1). 
+
+__10/8/2019__
+## Your Phone app – unveiling Calls, now even more ways to stay connected to what matters 
+We first announced the Calls feature at the Samsung Unpacked event in August, and you saw a live demo at last week’s Surface event. Today, we’re excited to unveil the Calls feature to the Windows Insider community. Check out this early preview and let us know what you think. 
+
+No need to dig for your Android phone to answer your personal or work calls. You can now stay connected by simply answering (or not) your phone calls on your PC. Tap into your PC’s speakers, microphone, and large screen for a richer calling experience.
+
+With the Calls feature you can:
+* Answer incoming phone calls on your PC.
+* Initiate phone calls from your PC using in-app dialer or contact list.
+* Decline incoming phone calls on your PC with custom text or send directly to your phone’s voicemail.
+* Access your recent call history on your PC. Clicking on a specific call will auto populate the number within the dialer screen.
+* Seamlessly transfer calls between your PC and phone.
+
+![Your Phone app](images/18999-1.png "take calls from your phone on your PC with the new Calls feature")
+
+Calls requirements:
+* Android Phones running Android 7.0 or higher
+* Windows 10 PC with Bluetooth radio
+* Windows 10 Version 1903 (OS build) 18362.356 or newer
+
+Note: 
+* This feature will gradually roll out to Insiders  so it may take a few days to be available inside the Your Phone app.
+* To enable the Calls feature, users must sign into the  Your Phone app using the Microsoft account that they used to register as a Windows Insider. 
+* For set-up instructions and other details see [Calls Feature for the Your phone app](https://answers.microsoft.com/en-us/insider/forum/insider_apps-insider_other-insiderplat_pc/calls-feature-for-the-your-phone-app/8266e234-ba16-42be-8b11-af2e33ba93ed?tm=1570724539623) 
+
+Known issue:
+* In certain instances, Calls feature may require you to pair your mobile phone & PC again. If you have previously paired your devices, unpair your devices and go through the Calls set up flow again.
+
+We value your feedback, so give it a try and let us know what you think. You can report any issues under the Your Phone > Settings > Send feedback.
+
+__10/3/2019__
+
+### Link to Windows on more devices. 
+We’re pleased to announce that Link to Windows feature, which seamlessly connects your phone to your Windows 10 PC, is rolling out to Samsung Galaxy S10, S10+, S10e, S10 5G, and Fold devices in select global markets. With Link to Windows natively integrated into your device, it’s simple and convenient to send messages, manage notifications, sync photos, and mirror your phone on your PC.
+
+### Phone screen on more devices. 
+Phone screen (w)hich allows you to access your Android phone’s apps right from your PC while using your keyboard and mouse or touch screen) is also rolling out to Samsung Galaxy S10, S10+, S10e, S10 5G, and Fold devices in select global markets. You can try out multi-touch gestures such as pinch to zoom, rotate, or swipe from your PC’s touchscreen while using Phone screen. If you have one of these devices, give it a try. This is a gradual rollout, so stay tuned for more to come on additional markets and devices.
+
+### Battery level indicator & phone’s home screen wallpaper.
+In addition to Phone screen and Link to Windows expansion, two additional features are rolling out to all users–battery indicator, which will provide quick access to your phone’s battery levels right in the app without needing to check your device, and Your Phone icon within the app, which will show your current static home screen wallpaper for a personal touch.
+
+![Your Phone app](images/18995-2.png "battery level indicator")
+
+All of these features are gradually rolling out to users, so they may take a few days to be available inside the Your Phone app. Please make sure you have the latest versions of Your Phone Companion and the Your Phone app.
+We value your feedback, so give it a try and let us know what you think. You can report any issues under Your Phone > Settings > Send feedback.
 
 __7/10/2019__
-## Phone screen now available on more Surface devices
+
+### Phone screen now available on more Surface devices. 
 As promised, we’re excited to expand the availability of the phone screen feature to more PCs. With the latest driver update in the Windows insider rings (Marvell 15.68.17013.110), the following Surface devices will preview the phone screen feature – Surface Laptop, Surface Laptop 2, Surface Pro 4, Surface Pro 5, Surface Pro 6, Surface Book, and Surface Book 2. If you have one of these devices, give it a try and let us know what you think!
 
 __7/3/2019__
@@ -51,9 +97,6 @@ Thank you to everyone who gave us feedback over the last few weeks to help us im
 * Android phone must be on, within Bluetooth range of the PC and connected to the same network as the PC
 
 __5/29/2019__
-
-## Your Phone app – Introducing even more new features 
-We’re bringing multiple new features to the Your Phone app in this build. Try them out and let us know what you think.
 
 ### Phone screen – Accessibility features, keyboard language and layout, new phone models
 We’re pleased to preview two new accessibility features – screen reading and focus tracking – as well as the ability to easily switch your Android phone’s keyboard language or layout while in phone screen.
@@ -177,6 +220,21 @@ __Phone screen requirements:__
 
 ## Snip & Sketch 
 
+__7/31/2019 - Version 10.1907__
+
+Thanks everyone who’s shared feedback so far for our updated snipping experience! We really appreciate it and are starting to roll out some more improvements based on what you’ve told us:
+* __Single window mode:__ Do you tend to retake snips multiple times in order to get the perfect screenshot? We’re updating the New button to now open new snips in your current app window, so you don’t end up with a ton of open snips (that you then need to close.) If you’d rather keep all snips open in separate windows. the option is now a toggle in settings, so you can decide which mode you prefer.
+
+![Snip & Sketch](images/18950-2.png "Single Mode View")
+ 
+* __Zoom:__ Need we say more? You can now zoom in on your screenshots if they’re a bit too small for you to annotate on (and yes, CTRL+Plus, CTRL+Minus and Ctrl+Mouse wheel are supported!). We’ll also zoom out to make sure the whole snip fits in the Snip & Sketch window. If you want to see the snip at its original size, click the Zoom button and then “Actual Size”.
+
+![Snip & Sketch](images/18950-3.gif "zoom")
+
+* __Improving WIN+Shift+S discoverability:__ You mentioned you loved learning about using WIN+Shift+S to take new snips any time and we thought others would too! If you haven’t taken a snip yet, we’ll now use the canvas space in Snip & Sketch to help you learn how to start a snip without needing to open the app first. 
+
+These changes are currently available for a portion of Insiders in the Fast ring as we evaluate the quality before continuing the rollout. Note the rollout for each change mentioned above is being handled separately, with separate random populations in the initial rollout, so seeing one of the changes with app version 10.1907.2064.0 doesn’t necessarily mean you’ll see all three.
+
 __3/6/2019 - Version 10.1901.10521.0__
 
 We’re in the process of rolling out a new app update to Snip & Sketch. It includes a number of fixes based on your feedback, among which are:
@@ -275,6 +333,33 @@ Please try it out and let us know what you think by tweeting at [@MicrosoftToDo]
 
 ## Feedback Hub 
 
+__8/21/2019 - Version 1907__
+
+The Feedback Hub team has been hard at work lately to bring you some app updates based on your feature requests, and we have a few changes and improvements to share about the latest version that’s currently rolling out to Insiders in the Fast ring.
+
+### Feedback Search UI updates
+On the Feedback section of the app, you will now be able to more clearly see the differentiation between Problems and Suggestions, with each showing an icon, color, and labels Problem or Suggestion displayed above each feedback entry. We also have updated iconography and displays for Adding similar feedback to problems, upvoting suggestions, and adding comments to feedback.
+
+![Feedback Hub](images/18965-2.png "Feedback Search UI updates")
+
+### Adding similar feedback
+
+In the past, Feedback Hub allowed two kinds of participation on feedback: upvoting and adding more details. The notion of voting on Suggestions makes a lot of sense – engineers at Microsoft want to know which features the community wants us to build next, and voting on feature suggestions is a great way to see where your interest lies.
+
+However, voting on Problems was trickier – problems are not a matter of popularity, and what helps engineers here resolve problems is having clear descriptions of how the issue arose. Feedback is especially helpful if it includes a reproduction of the problem, diagnostics that help our teams pinpoint what went wrong so they can fix issues faster. Voting on the search page often did not provide enough detail as to what was happening, and we saw that few people went into existing feedback to add their personal reproductions of the issues.
+
+With the new Add similar feedback feature, selecting a problem with symptoms that match your own will take you to the feedback form, with the title pre-filled. You edit the title or add your own description to let us know exactly what was happening when you encountered the problem. We’ll already have your category selected to ensure the right feature team sees your feedback, and in our new Similar Feedback section, the feedback you selected will already be selected. As usual, the last step involves optionally adding your own reproduction of the issue or any attachments you like.
+
+### Windows Insiders Achievements
+
+We are excited to announce a refresh of the Windows Insider Achievements page. We’ve made achievements more discoverable by moving them from your profile page to their own landing page, and we added additional features that allow you to categorize and track your progress. Be sure to check it out today and begin unlocking badges. We would love to hear your feedback on social media by using the hashtag #Builds4Badges.
+
+The information previously found in your profile (Device ID and User ID) is now located in the settings section of Feedback Hub.
+
+As always, we appreciate your feedback – if you have any suggestions or problems to report, you can share them in the Feedback Hub under Apps > Feedback Hub.
+
+![Feedback Hub](images/18965-3.png "Windows Insiders Achievements")
+
 __12/10/2018 - Version 1811__
 
 This update includes:
@@ -284,7 +369,16 @@ This update includes:
 - When creating a new feedback item, that feedback is auto-saved as a draft.  If the app closes unexpectedly in the middle of writing feedback, when you re-open the Feedback Hub you’ll now get notified of the existing draft so you can easily resume.
 - You can now check for app updates from the settings page in the Feedback Hub. We’ll also automatically check for app updates on app launch, and you’ll get a notification letting you know one is available.
 
-## Game Bar 
+## Game Bar
+
+__9/24/2019__
+
+## Track Achievements and frame rate 
+In case you hadn’t seen, we’ve rolled out an FPS counter in the Performance overlay and added a new Achievement overlay! Use the Achivements overlay to track your progress and see what you've unlocked. View the frame rate of the game you're playing with the FPS counter. Thanks to everyone who shared feedback so far. The update will come via the Microsoft Store. Just set focus to your favorite game and press WIN + G to get started.
+
+NOTE: You’ll find the new achievement overlay and frame rate counter in version V3.33.26001.0 or higher of the Xbox Game Bar. To check that you have the correct version of the Game Bar installed, open your Xbox Game Bar and go to settings (gear icon, upper right). If you do not have the Xbox Game Bar or need to download the latest version, first download the Xbox Insider Hub from the Microsoft Store, then go to Insider Content and click on "Game Bar (Windows Gaming)". 
+
+![xbox game bar updates](images/18990-1.jpg "FPS counter and achievement overlay")
 
 __12/10/2018__ 
 
