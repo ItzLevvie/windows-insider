@@ -70,9 +70,9 @@ On 10/10/2019, we [announced](https://blogs.windows.com/windowsexperience/2019/1
 
 | Build | Release Preview | ISO |
 |-------|-----------------|-----|
-|18363.448|[**10/18/2019**](https://blogs.windows.com/windowsexperience/2019/10/10/getting-the-november-2019-update-ready-for-release/#gl8uKqe3aYdymFzc.97)||
-|18363.446|[10/17/2019](https://blogs.windows.com/windowsexperience/2019/10/10/getting-the-november-2019-update-ready-for-release/#gl8uKqe3aYdymFzc.97)||
-|18363.418|[10/8/2019](https://blogs.windows.com/windowsexperience/2019/10/10/getting-the-november-2019-update-ready-for-release/#gl8uKqe3aYdymFzc.97)||
+|18363.448|[**10/18/2019**](https://blogs.windows.com/windowsexperience/2019/10/10/getting-the-november-2019-update-ready-for-release/)||
+|18363.446|[10/17/2019](https://blogs.windows.com/windowsexperience/2019/10/10/getting-the-november-2019-update-ready-for-release/)||
+|18363.418|[10/8/2019](https://blogs.windows.com/windowsexperience/2019/10/10/getting-the-november-2019-update-ready-for-release/)||
 |18363.388*|[10/3/2019](https://blogs.windows.com/windowsexperience/2019/08/26/testing-the-throttled-delivery-approach-for-19h2/)||
 |18363.387*|[9/27/2019](https://blogs.windows.com/windowsexperience/2019/08/26/testing-the-throttled-delivery-approach-for-19h2/)||
 |18363.385*|[9/23/2019](https://blogs.windows.com/windowsexperience/2019/08/26/testing-the-throttled-delivery-approach-for-19h2/)||
