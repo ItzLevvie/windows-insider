@@ -60,7 +60,7 @@ The items in **bold** are the latest releases for the individual versions of the
 >[!NOTE]
 > "*" denotes a Skip Ahead flight.
 
-## Next feature update for Windows 10 (19H2)
+## Windows 10 November 2019 Update (19H2)
 
 For details regarding the 19H2 feature update for Windows 10, see [Evolving Windows 10 servicing: the next steps](https://blogs.windows.com/windowsexperience/2019/07/01/evolving-windows-10-servicing-and-quality-the-next-steps/).
 
@@ -79,6 +79,8 @@ For details regarding the 19H2 feature update for Windows 10, see [Evolving Wind
 > "*" denotes that the update went out to only a subset of Windows Insiders in the Release Preview ring which means not everyone in the Release Preview ring will see the update.
 
 **19H2 in the Slow ring:**
+
+As of 10/16/2019 - the Slow ring will no longer be updated with new 19H2 builds.
 
 | Build | Slow |
 |-------|------|
