@@ -1,5 +1,5 @@
 ---
-title: What's new in the Windows Server 2019 Insider Preview Builds
+title: What was new for Windows Server 2019
 description: New features to use and test in the Windows Insider Program for Server 2019 Preview Builds
 author: lizap
 manager: dougkim
@@ -12,7 +12,7 @@ ms.topic: article
 ms.prod: w10
 ---
 
-# What's new in the Windows Server Insider preview builds (RS5)
+# What was new for Windows Server 2019
 
 The features listed below are available in preview builds of Windows Server 2019 via the Windows Insider Program for Server. You can find the current What's New [here](whats-new-wip-at-work.md).
 

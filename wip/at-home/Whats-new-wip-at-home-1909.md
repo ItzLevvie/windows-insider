@@ -1,5 +1,5 @@
 ---
-title: What's new in Windows 10, version 1909
+title: What was new in Windows 10, version 1909
 description: New Windows features for Windows Insider Program Preview Builds
 author: lizap
 manager: dougkim
@@ -11,7 +11,7 @@ ms.topic: article
 ms.prod: w10
 ---
 
-# What's new in Windows 10, version 1909
+# What was new in Windows 10, version 1909
 
 The next feature update for Windows 10 (known in the Windows Insider Program as 19H2) will be a scoped set of features for select performance improvements, enterprise features, and quality enhancements. To deliver these updates in a less disruptive fashion, we will deliver this feature update in a new way, using servicing technology (like the monthly update process) for customers running the May 2019 Update who choose to update to the new release. For more details on how we will be releasing this feature update–[please read this blog post from John Cable](https://blogs.windows.com/windowsexperience/2019/07/01/evolving-windows-10-servicing-and-quality-the-next-steps/). When 19H2 is officially released, it will be referred to as “version 1909.” 
 
