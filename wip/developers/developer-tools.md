@@ -18,7 +18,7 @@ As a developer, you can use many of the same tools with your customers and apps 
 ## Flighting and feature experiments
 We're always testing different versions of features with our user, and with our tools, you can do similar testing to improve your users' experience.
 
-**Test different package flights.** Package flights let you give different sets of your users different packages, without disrupting the experience of your other customers. When you set up package flights, you can make known user groups to choose who gets specific packages. 
+**Test different package flights.** Package flights let you give different sets of your users different packages, without disrupting the experience of your other customers. When you set up package flights, you can make known user groups to choose who gets specific packages.
 
 [Set up package flights >](https://docs.microsoft.com/windows/uwp/publish/package-flights#create-a-new-flight-group)
 
