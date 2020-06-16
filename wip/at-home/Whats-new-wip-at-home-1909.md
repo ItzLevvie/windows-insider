@@ -55,6 +55,6 @@ The following new features are being introduced as part of this update.
 
 - We have enabled the ability for enterprises to supplement the Windows 10 in S Mode policy to allow traditional Win32 (desktop) apps from Microsoft Intune.
 
-- We’re updating the search box in File Explorer to now be powered by Windows Search. This change will help integrate your OneDrive content online with the traditional indexed results. [More details here.](https://blogs.windows.com/windowsexperience/2019/05/08/announcing-windows-10-insider-preview-build-18894/)
+- We’re updating the search box in File Explorer to now be powered by Windows Search. This change will help integrate your OneDrive content online with the traditional indexed results. [More details here](https://blogs.windows.com/windowsexperience/2019/05/08/announcing-windows-10-insider-preview-build-18894/).
 
 - We have added the ability for Narrator and other assistive technologies to read and learn where the FN key is located on keyboards and what state it is in (locked versus unlocked).
