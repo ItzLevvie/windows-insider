@@ -25,7 +25,8 @@ The items in **bold** are the latest releases for the individual versions of the
 
 | Build | Dev | ISO | SDK |
 |-------|-----|-----|-----|
-|19645|[**6/10/2020**](https://blogs.windows.com/windowsexperience/2020/06/10/announcing-windows-10-insider-preview-build-19645/)|||
+|20150|[**6/17/2020**](https://blogs.windows.com/windowsexperience/2020/06/17/announcing-windows-10-insider-preview-build-20150/)|||
+|19645|[6/10/2020](https://blogs.windows.com/windowsexperience/2020/06/10/announcing-windows-10-insider-preview-build-19645/)|||
 |19640|[6/3/2020](https://blogs.windows.com/windowsexperience/2020/06/03/announcing-windows-10-insider-preview-build-19640/)|||
 |19635|[5/28/2020](https://blogs.windows.com/windowsexperience/2020/05/28/announcing-windows-10-insider-preview-build-19635/)|||
 |19631|[5/21/2020](https://blogs.windows.com/windowsexperience/2020/05/21/announcing-windows-10-insider-preview-build-19631/)||[**5/21/2020**](https://software-download.microsoft.com/download/sg/Windows_InsiderPreview_SDK_en-us_19631_1.iso)|
